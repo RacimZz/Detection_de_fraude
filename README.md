@@ -113,8 +113,6 @@ clf.fit(X_train, y_train)  # Entraînement sur les données prétraitées
 ## Licence
 
 Ce projet est sous la licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
-```
 
----
 
-Ce README est maintenant structuré pour GitHub et prêt à être utilisé dans ton projet. Il comprend toutes les sections nécessaires, avec des titres et sous-titres organisés avec des `#` pour une meilleure lisibilité.
+
